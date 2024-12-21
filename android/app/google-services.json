@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1091398434705",
+    "project_id": "wed-snap-neubrain",
+    "storage_bucket": "wed-snap-neubrain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091398434705:android:0d895b5597de79f1326430",
+        "android_client_info": {
+          "package_name": "in.neubrain.wedsnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEYNhOY2tCNwuzcGvW-PlhXU_rx8apJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ C:\\Users\\Dell\\Desktop\\wedsnap\\wedsnap\\.dart_tool\\flutter_build\\734784302f752b7edce0c0aad0fab5eb\\native_assets.yaml: 
